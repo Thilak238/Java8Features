@@ -3,7 +3,7 @@ package com.hello;
 //program without Lambda Expression
 
 //Interface created 
-@FunctionalInterface
+
 interface Park
 {
 	void message();

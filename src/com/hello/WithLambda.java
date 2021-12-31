@@ -3,7 +3,7 @@ package com.hello;
 //program with Lambda Expression
 
 //Interface created 
-@FunctionalInterface
+
 interface Phone
 {
 	void message();

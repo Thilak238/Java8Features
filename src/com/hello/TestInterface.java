@@ -2,7 +2,7 @@ package com.hello;
 
 
 //Interface created 
-@FunctionalInterface
+
 interface read{
 	void message();
 }
